@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+openai>=1.30.0
+pypdf
+chromadb
+tiktoken
+unstructured[pdf]
+sentence-transformers
+FlagEmbedding           # (optional) cross-encoder reranker
+streamlit               # (optional) UI
